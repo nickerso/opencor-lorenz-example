@@ -1,0 +1,79 @@
+{
+  "input": [
+    {
+      "defaultValue": 2.66667,
+      "id": "beta",
+      "maximumValue": 10,
+      "minimumValue": 0,
+      "name": "beta"
+    },
+    {
+      "defaultValue": 28,
+      "id": "rho",
+      "maximumValue": 50,
+      "minimumValue": 0,
+      "name": "rho"
+    },
+    {
+      "defaultValue": 10,
+      "id": "sigma",
+      "maximumValue": 20,
+      "minimumValue": 0,
+      "name": "sigma"
+    }
+  ],
+  "output": {
+    "data": [
+      {
+        "id": "t",
+        "name": "main/t"
+      },
+      {
+        "id": "x",
+        "name": "main/x"
+      },
+      {
+        "id": "y",
+        "name": "main/y"
+      },
+      {
+        "id": "z",
+        "name": "main/z"
+      }
+    ],
+    "plots": [
+      {
+        "xAxisTitle": "t",
+        "xValue": "t",
+        "yAxisTitle": "x",
+        "yValue": "x"
+      },
+      {
+        "xAxisTitle": "x",
+        "xValue": "x",
+        "yAxisTitle": "y",
+        "yValue": "y"
+      },
+      {
+        "xAxisTitle": "x",
+        "xValue": "x",
+        "yAxisTitle": "z",
+        "yValue": "z"
+      }
+    ]
+  },
+  "parameters": [
+    {
+      "name": "main/beta",
+      "value": "beta"
+    },
+    {
+      "name": "main/rho",
+      "value": "rho"
+    },
+    {
+      "name": "main/sigma",
+      "value": "sigma"
+    }
+  ]
+}
