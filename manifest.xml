@@ -8,9 +8,9 @@
   <metadata>
     <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cellmlforge="https://cellmlforge.org/ns/workspace#">
       <rdf:Description rdf:about=".">
-        <cellmlforge:hasUncommittedChanges>false</cellmlforge:hasUncommittedChanges>
+        <cellmlforge:hasUncommittedChanges>true</cellmlforge:hasUncommittedChanges>
         <cellmlforge:gitBranch>main</cellmlforge:gitBranch>
-        <cellmlforge:gitRevision>6a10fee1c1616edf67eb1cfe4639dafd99bcf28a</cellmlforge:gitRevision>
+        <cellmlforge:gitRevision>fd1a036638a5abe184e6f184d062bc63cd9b1a52</cellmlforge:gitRevision>
         <cellmlforge:gitRepository>https://github.com/nickerso/opencor-lorenz-example</cellmlforge:gitRepository>
       </rdf:Description>
     </rdf:RDF>
