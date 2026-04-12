@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omexManifest xmlns="http://identifiers.org/combine.specifications/omex-manifest">
+  <content location="." format="http://identifiers.org/combine.specifications/omex" description="Setting up a default simulation experiment for testing."/>
+  <content location="./cellmlforge-workspace-manager.json" format="http://purl.org/NET/mediatypes/application/json"/>
+  <content location="./document.sedml" format="http://identifiers.org/combine.specifications/sed-ml" master="true"/>
+  <content location="./model.cellml" format="http://identifiers.org/combine.specifications/cellml"/>
+  <content location="./simulation.json" format="http://purl.org/NET/mediatypes/application/json"/>
+  <content location="./manifest.xml" format="http://identifiers.org/combine.specifications/omex-manifest"/>
+</omexManifest>
