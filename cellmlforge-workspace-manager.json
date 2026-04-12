@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "1.0",
+  "appVersion": "0.2.0",
+  "name": "OpenCOR Lorenz Example",
+  "description": "Using the built-in OpenCOR Lorenz example to help test things out.",
+  "createdAt": "2026-04-07T11:26:12.425Z",
+  "lastModifiedBy": "0.2.0"
+}

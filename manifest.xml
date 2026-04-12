@@ -5,4 +5,14 @@
   <content location="./manifest.xml" format="http://identifiers.org/combine.specifications/omex-manifest"/>
   <content location="./model.cellml" format="http://identifiers.org/combine.specifications/cellml"/>
   <content location="./simulation.json" format="http://purl.org/NET/mediatypes/application/json"/>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cellmlforge="https://cellmlforge.org/ns/workspace#">
+      <rdf:Description rdf:about=".">
+        <cellmlforge:hasUncommittedChanges>false</cellmlforge:hasUncommittedChanges>
+        <cellmlforge:gitBranch>main</cellmlforge:gitBranch>
+        <cellmlforge:gitRevision>3189be7858d111b5018cc880e81be911cdfb5959</cellmlforge:gitRevision>
+        <cellmlforge:gitRepository>https://github.com/nickerso/opencor-lorenz-example</cellmlforge:gitRepository>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
 </omexManifest>
