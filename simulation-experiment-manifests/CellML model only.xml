@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omexManifest xmlns="http://identifiers.org/combine.specifications/omex-manifest">
+  <content location="." format="http://identifiers.org/combine.specifications/omex" description="Just the CellML model, not sure what to expect when launching this one in OpenCOR."/>
+  <content location="./cellmlforge-workspace-manager.json" format="http://purl.org/NET/mediatypes/application/json"/>
+  <content location="./model.cellml" format="http://identifiers.org/combine.specifications/cellml"/>
+  <content location="./manifest.xml" format="http://identifiers.org/combine.specifications/omex-manifest"/>
+</omexManifest>
